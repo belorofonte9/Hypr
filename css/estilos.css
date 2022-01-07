@@ -1,6 +1,13 @@
 body {
-    text-align: center;
+    text-align: left;
     font-family: Arial, Helvetica, sans-serif;
-    color: blueviolet;
+    color: #444495;
+    p{
+        color: #00d4ff;
+    }
 
+}
+
+#container h1 {
+    font-size: 20px;
 }
